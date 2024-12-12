@@ -1,0 +1,10 @@
+:root { 
+  --zen-branding-bg: #090B10 !important;
+  --zen-primary-color: #090B10 !important;
+  --zen-colors-secondary: #c792ea !important;
+  --zen-colors-tertiary: #090B10 !important;
+  --zen-colors-border: #c792ea !important;
+  --toolbarbutton-hover-background: #090B10 !important;
+  --zen-dialog-background: #090B10 !important;
+  --zen-settings-secondary-background: #090B10 !important;
+}
